@@ -3,6 +3,8 @@ Mod Settings GUI for [Dale & Dawson Stationery Supplies](https://store.steampowe
 
 - This allows you to Customize your Mod Settings from In-Game.
 
+* Discord: https://discord.gg/JDw423Wskf
+
 ---
 
 ### REQUIREMENTS:

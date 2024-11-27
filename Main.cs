@@ -103,7 +103,7 @@ namespace DDSS_MelonSettings
 
         private void MakeModHelperAware(MelonMod modHelper)
         {
-            Type modFilterType = modHelper.MelonAssembly.Assembly.GetType("DDSS_ModHelper.Utils.RequirementFilterHandler");
+            Type modFilterType = modHelper.MelonAssembly.Assembly.GetType("DDSS_ModHelper.Utils.RequirementFilter");
             if (modFilterType == null)
                 return;
 
